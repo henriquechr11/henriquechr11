@@ -1,7 +1,8 @@
 Olá meu nome é Henrique
+Desenvolvedor Full Stack
+Estudante do ensino medio da escola COTEMIG
 
 
 
-- 🔭 Hoje Trabalho com Tecnologia 
 - 🌱 No Momento estou estudando programação
 
