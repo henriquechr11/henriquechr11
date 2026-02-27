@@ -45,7 +45,7 @@
 
   <h2>📚 O que estou estudando atualmente</h2>
   <ul>
-    <li>Desenvolvimento avançado com <strong>React (puro)</strong></li>
+    <li>Desenvolvimento avançado com <strong>React (puro), Flutter e Swift</strong></li>
     <li>Arquitetura de projetos Front-end</li>
     <li>Consumo e integração de APIs</li>
     <li>Boas práticas de código e versionamento</li>
@@ -57,7 +57,7 @@
 
   <h2>💼 Projetos em destaque</h2>
   <ul>
-    <li>🔹 Projetos pessoais em React</li>
+    <li>🔹 Projetos pessoais em React e Python</li>
     <li>🔹 Aplicações web com foco em performance e UX</li>
     <li>🔹 Sistemas integrados com APIs</li>
   </ul>
@@ -82,7 +82,7 @@
   <h2>📫 Contato</h2>
 
   <ul>
-    <li>📧 Email: <a href="mailto:henriquechr11@gmail.com">henriquechr11@gmail.com</a></li>
+    <li>📧 Email: <a href="mailto:henriquechr11@gmail.com">henriquestv18@gmail.com</a></li>
     <li>📸 Instagram: <a href="https://instagram.com/henriquesantostv">@henriquesantostv</a></li>
     <li>📱 WhatsApp: <a href="https://wa.me/5531985271685">(31) 98527-1685</a></li>
     <li>💼 LinkedIn: <a href="#">Henrique Santos Tavares</a></li>
