@@ -30,14 +30,22 @@
 
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">MySQL</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">C#</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">N8N</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Kotlin</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Swift</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Flutter</div>
+    <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">React</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Python</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Git</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">HTML</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">CSS</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Tailwind CSS</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">JavaScript</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">React</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Python</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">APIs</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Supabase</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Postgres</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">APIs</div>
+  
 
   </div>
 
