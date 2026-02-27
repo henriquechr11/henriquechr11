@@ -15,7 +15,7 @@
   <p>
     Tenho 17 anos e sou estudante da <strong>Escola Técnica do COTEMIG</strong>, atualmente atuando na área de tecnologia.
     Sou apaixonado por desenvolvimento de software e estou focado na criação de <strong>projetos próprios</strong> e no
-    crescimento da minha <strong>empresa pessoal</strong>, utilizando principalmente <strong>React e Python</strong>.
+    crescimento da minha <strong>empresa pessoal</strong>, utilizando principalmente <strong>Flutter e Python</strong>.
   </p>
   <p>
     Busco constantemente evoluir como desenvolvedor, aplicando boas práticas, aprendendo novas tecnologias
