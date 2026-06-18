@@ -34,7 +34,8 @@
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Kotlin</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Swift</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Flutter</div>
-    <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">React</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">React</div>
+  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Typescript</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Python</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Git</div>
   <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">HTML</div>
