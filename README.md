@@ -24,31 +24,38 @@
 
   <hr/>
 
-  <h2>🧠 Tecnologias & Ferramentas</h2>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">MySQL</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">C#</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">N8N</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Kotlin</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Swift</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Flutter</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">React</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Typescript</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Python</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Git</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">HTML</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">CSS</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Tailwind CSS</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">JavaScript</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">APIs</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Supabase</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">Postgres</div>
-  <div style="padding: 8px 14px; background: #f3f3f3; border-radius: 8px;">APIs</div>
   
-
-  </div>
+ <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
+      <th style="padding: 12px; text-align: left; color: #333;">🧠 Minhas Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 16px 12px; display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">MySQL</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">C#</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">N8N</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Kotlin</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Swift</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Flutter</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">React</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">TypeScript</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Python</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Git</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">HTML</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">CSS</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Tailwind CSS</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">JavaScript</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">APIs</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Supabase</span>
+        <span style="padding: 6px 12px; background: #f3f3f3; border-radius: 6px; font-size: 14px; color: #333;">Postgres</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   <hr/>
 
