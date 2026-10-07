@@ -1,6 +1,6 @@
 # Henrique Santos Tavares
 
-Estudante de tecnologia · COTEMIG · 17 anos  
+Estudante de tecnologia · COTEMIG · 18 anos  
 
 ---
 
